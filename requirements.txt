@@ -1,0 +1,6 @@
+numpy
+matplotlib
+example
+pandas
+scipy
+plotly
